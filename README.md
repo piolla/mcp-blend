@@ -73,4 +73,4 @@ where uvx
 - 블렌더 버젼 변경등으로 실행 않될 수 있음. 또한 임의의 Python 코드를 실행할 수 있으며,
 - 잠재적 위험할 수도 있음.
 - 사용하지 않을 경우 블렌더 Edit에서 blender MCP ql 비 활성화 하세요.
-- addon.py는 Siddharth에 의해 제작되었습니다(감사합니다) 
+- addon.py는  Siddharth 에 의해 제작되었습니다(감사합니다) 
