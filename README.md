@@ -43,8 +43,7 @@ where uvx
 2) Blender 실행 
 - Edit -> Preferences -> Add-ons -> Inrell Add-on -> blender_addon.py(download위치)
 - -> 'Interface: Blender MCP' checkbox check(Activation)
-- ![image](https://github.com/user-attachments/assets/c17a1acd-7d01-4287-b67c-45ac2c792372)
-- ![image](https://github.com/user-attachments/assets/98ffe461-e985-451b-801e-d4a0da577d2a)
+- ![image](https://github.com/user-attachments/assets/74c45599-e00e-4526-9ff6-e006bc8fa0ec)
 - ![image](https://github.com/user-attachments/assets/9b664ae6-d524-43e0-ac4d-bf6cafb79d00)
 
 ### 5. 설치 Step #3 : Claude ai 
