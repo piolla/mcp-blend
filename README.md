@@ -51,7 +51,7 @@ where uvx
 1) Claude ai open
 2) 파일 -> 설정 -> 개발자 -> 설정 편집 -> 파일 탐색기에서 'claude_desktop_config.json' 파일 수정
 3) claude_desktop_config.json (아래 참조하여 수정 )
-```json
+```script
 {
     "mcpServers":
     {
@@ -67,7 +67,8 @@ where uvx
 4) claude 종료하고 다시 실행하기
 - claude 종료는 파일 메뉴에서 종료
 - claude 실행하여 연결 확인
-- ![image](https://github.com/user-attachments/assets/892d4bc0-e382-4434-9bf8-268324d7d155)
+- ![image](https://github.com/user-attachments/assets/2fc7750d-9bc7-4c25-9d73-9bcd399b78b6)
+
 
 
 
