@@ -18,7 +18,7 @@
 3) Python (3.10이상) 
 4) UV Package 
 
-### 3. 설치 Step #1   
+### 3. 설치 Step #1: UV Package   
 1) UV and UVX
 ``` text
 pip install uv 
@@ -38,7 +38,7 @@ uvx --version
 where uvx 
 ```
 
-### 3. 설치 Step #2
+### 4. 설치 Step #2 : Blender Add-ons 
 1) 'blender_addon.py' download
 2) Blender 실행 
 - Edit -> Preferences -> Add-ons -> Inrell Add-on -> blender_addon.py(download위치)
@@ -47,7 +47,24 @@ where uvx
 - ![image](https://github.com/user-attachments/assets/98ffe461-e985-451b-801e-d4a0da577d2a)
 - ![image](https://github.com/user-attachments/assets/9b664ae6-d524-43e0-ac4d-bf6cafb79d00)
 
-- 
+### 5. 설치 Step #3 : Claude ai 
+1) Claude ai open
+2) 파일 -> 설정 -> 개발자 -> 설정 편집 -> 파일 탐색기에서 'claude_desktop_config.json' 파일 수정
+3) claude_desktop_config.json (아래 참조하여 수정 )
+```json
+{
+    "mcpServers":
+    {
+        "Blender":
+        {
+            "command": "D:\\Anaconda\\envs\\aria\\Scripts\\uvx.exe",
+            "args": ["blender-mcp" ]
+        }
+}
+```
+4) claude 종료하고 다시 실행하기
+- claude 종료는 파일 메뉴에서 종료
+- claude 실행하여 연결 확인
 
 
 
