@@ -23,3 +23,11 @@
 ``` text
 pip install uv 
 ```
+- https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_2 참조
+
+2) 설치 확인
+```shell
+uv --version
+uvx --version 
+```
+3) 설치 경로 
