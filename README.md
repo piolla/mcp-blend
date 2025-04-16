@@ -60,11 +60,14 @@ where uvx
             "command": "D:\\Anaconda\\envs\\aria\\Scripts\\uvx.exe",
             "args": ["blender-mcp" ]
         }
+    }
 }
 ```
 4) claude 종료하고 다시 실행하기
 - claude 종료는 파일 메뉴에서 종료
 - claude 실행하여 연결 확인
+- ![image](https://github.com/user-attachments/assets/892d4bc0-e382-4434-9bf8-268324d7d155)
+
 
 
 
