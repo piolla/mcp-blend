@@ -18,16 +18,36 @@
 3) Python (3.10이상) 
 4) UV Package 
 
-### 3. 설치 
+### 3. 설치 Step #1   
 1) UV and UVX
 ``` text
 pip install uv 
 ```
 - https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_2 참조
-
+"
 2) 설치 확인
 ```shell
 uv --version
 uvx --version 
 ```
-3) 설치 경로 
+
+3) 설치 경로 확인
+- 만약 가상환경에 설치 되었다면 가능한 Full path를 지정해주는 방법 권장
+```shell
+# 설치 경로 확인 
+where uvx 
+```
+
+### 3. 설치 Step #2
+1) 'blender_addon.py' download
+2) Blender 실행 
+- Edit -> Preferences -> Add-ons -> Inrell Add-on -> blender_addon.py(download위치)
+- -> 'Interface: Blender MCP' checkbox check(Activation)
+- ![image](https://github.com/user-attachments/assets/c17a1acd-7d01-4287-b67c-45ac2c792372)
+- ![image](https://github.com/user-attachments/assets/98ffe461-e985-451b-801e-d4a0da577d2a)
+- ![image](https://github.com/user-attachments/assets/9b664ae6-d524-43e0-ac4d-bf6cafb79d00)
+
+- 
+
+
+
