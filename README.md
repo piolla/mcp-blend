@@ -38,6 +38,12 @@ uvx --version
 where uvx 
 ```
 
+4) Repository clone 또는 다운로드하기
+```bsah
+git clone https://github.com/piolla/mcp-blend
+cd mcp-blend
+```
+
 ### 4. 설치 Step #2 : Blender Add-ons 
 1) 'blender_addon.py' download
 2) Blender 실행 
